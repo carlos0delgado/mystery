@@ -2,7 +2,7 @@
 <odoo>
   <data>
     <!-- Main menu -->
-    <menuitem name="Surveys"
+    <menuitem name="Comprador Mysterioso"
       id="menu_surveys"
       sequence="130"
       groups="group_survey_user"
